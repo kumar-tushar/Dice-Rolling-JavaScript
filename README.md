@@ -1,6 +1,6 @@
 # Dice Roll Game using HTML, CSS & JavaScript
 
-https://kumar-tushar.github.io/Dice-Rolling-JavaScript
+> https://kumar-tushar.github.io/Dice-Rolling-JavaScript
 
 # Quick Start
 ``` bash
